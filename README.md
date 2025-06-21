@@ -15,7 +15,7 @@
 
 ## 💡 About Me
 
-Hi, I'm **Shubh Dinesh Jain**, an AI-driven full-stack developer passionate about solving real-world problems by blending **MERN stack**, **LLMs**, and **data science**.
+Hi, I'm **Shubh Dinesh Jain**, an AI-driven full-stack developer passionate about solving real-world problems by blending **MERN stack**, **Gen AI**, and **Data science**.
 
 - 👨‍💻 Currently pursuing M.Tech @ **VJTI Mumbai** (Network Infrastructure Management System)
 - 🤖 Projects in Full Stack, LLMs, GenAI, Deep Learning & Real-Time Exercise Recognition
