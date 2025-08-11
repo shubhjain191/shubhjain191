@@ -76,16 +76,6 @@ Hi, I'm **Shubh Dinesh Jain**, an AI-driven full-stack developer passionate abou
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhjain191&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## ✨ Featured Projects
-
-- 🤖 **LLM Chatbot** – RAG-based assistant with OpenAI + custom documents  
-- 🧠 **FormFit** – Exercise posture detection using MediaPipe + BiLSTM  
-- 🎯 **CareerMentor AI** – Resume + Job fit analyzer with NLP/ML  
-
----
-
 ## 📩 Contact
 
 📬 Email: [shubhjain191@gmail.com](mailto:shubhjain191@gmail.com)  
